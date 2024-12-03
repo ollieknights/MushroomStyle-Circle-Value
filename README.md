@@ -1,5 +1,3 @@
-# MushroomStyle-Circle-Value
-
 # Mushroom Style Circle Value Card
 
 A Home Assistant custom card that displays numeric values and percentages in a circular progress indicator with Mushroom-style UI.
