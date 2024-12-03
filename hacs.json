@@ -1,0 +1,8 @@
+{
+    "name": "Mushroom Circle Value Card",
+    "render_readme": true,
+    "filename": "mushroom-Circle-Value/.js",
+    "content_in_root": true,
+    "homeassistant": "2023.11.0",
+    "plugin_type": "dashboard"
+}
