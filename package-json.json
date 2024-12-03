@@ -1,0 +1,12 @@
+{
+  "name": "mushroomstyle-circle-value",
+  "version": "1.0.1",
+  "description": "A circular progress card for values and percentages with Mushroom styling",
+  "author": "OllieKnights",
+  "license": "MIT",
+  "keywords": ["home-assistant", "custom-card", "mushroom-style"],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ollieknights/MushroomStyle-Circle-Value.git"
+  }
+}
